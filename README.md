@@ -3,9 +3,7 @@
 ![PySide6](https://img.shields.io/badge/PySide6-GUI-green?logo=qt)
 ![License](https://img.shields.io/badge/License-MIT-orange)
 
-**NetScan Pro** adalah aplikasi pemindai port dan jaringan (*network scanner*) asinkron berkecepatan tinggi yang dibangun menggunakan ekosistem Python. 
 
-Dirancang dengan antarmuka grafis (GUI) modern berbasis PySide6 dan mesin pemindai tangguh berbasis `asyncio`, aplikasi ini mampu memindai ribuan alamat IP dalam hitungan detik. Arsitektur internalnya telah diaudit secara ketat untuk memastikan stabilitas tingkat tinggi pada sistem operasi.
 
 ---
 
